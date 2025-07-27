@@ -1,0 +1,37 @@
+{
+  "name": "Discord Dark by ᝰᐟ𐌌♤Riskyᯓ✦",
+  "author": "SyndiShanX",
+  "version": "2.0",
+  "themePlus": true,
+  "background": {
+    "url": "https://syndishanx.github.io/Discord-Dark/Enmity/Background.png",
+    "alpha": 1.0,
+    "blur": 0
+  },
+  "colors": {
+    "primary": "#1A1A1A",
+    "secondary": "#0D0D0D",
+    "header": "#FFFFFF",
+    "text": "#FFFFFF",
+    "text-muted": "#C8C8C8",
+    "interactive-active": "#FFFFFF",
+    "interactive-normal": "#C8C8C8",
+    "keyboard": "#0D0D0D"
+  },
+  "rawColors": {
+    "PRIMARY_600": "#00B344",
+    "PRIMARY_660": "#3A496B",
+    "BRAND_360": "#3A496B",
+    "BRAND_500": "#3A496B",
+    "BRAND_560": "#3A496B",
+    "PLUM_6": "#FFFFFF",
+    "PLUM_9": "#949BA4",
+    "PLUM_10": "#8D919C",
+    "PLUM_16": "#4F545C",
+    "PLUM_17": "#1A1A1A",
+    "PLUM_18": "#1A1A1A",
+    "PLUM_20": "#1A1A1A",
+    "PLUM_22": "#1A1A1A",
+    "PLUM_24": "#1A1A1A"
+  }
+}
