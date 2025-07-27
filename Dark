@@ -1,22 +1,29 @@
 {
-  "name": "Discord Dark by ᝰᐟ𐌌♤Riskyᯓ✦",
-  "author": "SyndiShanX",
+  "name": "Discord Dark (themes+)",
+  "description": "Github Dark Theme styled for Revenge with themes+ support",
   "version": "2.0",
+  "authors": [
+    {
+      "name": "SyndiShanX",
+      "id": "1113130615630471290"
+    }
+  ],
+  "spec": 2,
   "themePlus": true,
   "background": {
     "url": "https://syndishanx.github.io/Discord-Dark/Enmity/Background.png",
     "alpha": 1.0,
     "blur": 0
   },
-  "colors": {
-    "primary": "#1A1A1A",
-    "secondary": "#0D0D0D",
-    "header": "#FFFFFF",
-    "text": "#FFFFFF",
-    "text-muted": "#C8C8C8",
-    "interactive-active": "#FFFFFF",
-    "interactive-normal": "#C8C8C8",
-    "keyboard": "#0D0D0D"
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#1A1A1A", "#1A1A1A"],
+    "BACKGROUND_SECONDARY": ["#0D0D0D", "#0D0D0D"],
+    "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_NORMAL": ["#C8C8C8", "#C8C8C8"],
+    "KEYBOARD": ["#0D0D0D", "#0D0D0D"],
+    "TEXT_MUTED": ["#FFFFFF", "#FFFFFF"],
+    "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
   },
   "rawColors": {
     "PRIMARY_600": "#00B344",
