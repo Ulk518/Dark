@@ -1,20 +1,13 @@
 {
-  "name": "Discord Dark (themes+)",
-  "description": "Github Dark Theme styled for Revenge with themes+ support",
-  "version": "2.0",
+  "name": "Risky-dark",
+  "description": "dark base with Discord_Dark color palette",
+  "version": "1",
   "authors": [
     {
-      "name": "SyndiShanX",
+      "name": "Mrisky",
       "id": "1113130615630471290"
     }
   ],
-  "spec": 2,
-  "themePlus": true,
-  "background": {
-    "url": "https://syndishanx.github.io/Discord-Dark/Enmity/Background.png",
-    "alpha": 1.0,
-    "blur": 0
-  },
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#1A1A1A", "#1A1A1A"],
     "BACKGROUND_SECONDARY": ["#0D0D0D", "#0D0D0D"],
@@ -40,5 +33,45 @@
     "PLUM_20": "#1A1A1A",
     "PLUM_22": "#1A1A1A",
     "PLUM_24": "#1A1A1A"
-  }
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
+  },
+  "background": {
+    "blur": 1.9,
+    "url": "https://pomf2.lain.la/f/r52w8i6.png",
+    "OPACITY": 0
+  },
+  "plus": {
+    "version": "0",
+    "iconPack": "rosiecord-plumpy",
+    "mentionLineColor": "#E692C4",
+    "customOverlays": true,
+    "icons": {
+      "trash": "#eb6f92",
+      "TrashIcon": "#eb6f92",
+      "TriangleExclamationPointIcon": "#eb6f92",
+      "toast_copy_link": "#ffccf4",
+      "toast_copy_message": "#feffff",
+      "toast_image_saved": "#feffff"
+    }
+  },
+  "spec": 2
 }
