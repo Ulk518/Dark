@@ -1,7 +1,7 @@
 {
   "name": "Risky-dark",
-  "description": "dark base with Discord_Dark color palette",
-  "version": "1",
+  "description": "Fully matched with Discord_Dark color palette",
+  "version": "1.1",
   "authors": [
     {
       "name": "Mrisky",
@@ -62,16 +62,8 @@
   "plus": {
     "version": "0",
     "iconPack": "rosiecord-plumpy",
-    "mentionLineColor": "#E692C4",
-    "customOverlays": true,
-    "icons": {
-      "trash": "#eb6f92",
-      "TrashIcon": "#eb6f92",
-      "TriangleExclamationPointIcon": "#eb6f92",
-      "toast_copy_link": "#ffccf4",
-      "toast_copy_message": "#feffff",
-      "toast_image_saved": "#feffff"
-    }
+    "mentionLineColor": "#263248",
+    "customOverlays": true
   },
   "spec": 2
 }
